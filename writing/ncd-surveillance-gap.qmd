@@ -1,7 +1,8 @@
 ---
 title: "The Burden We Do Not Count"
 author: "Mwila Hilton Mwaba"
-date: 2026-10-16
+date: 2026-10-17
+draft: true
 description: "Non-communicable diseases cause roughly 28 to 29 per cent of deaths in Zambia but took 8 to 11 per cent of health spending, and almost nothing is measured about what mining leaves in the bodies of Copperbelt residents."
 categories: [non-communicable diseases, mining, surveillance, Zambia]
 image: images/hero-ncd.svg
