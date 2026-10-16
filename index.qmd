@@ -65,6 +65,13 @@ Programme development for pharmacogenomics, Work Package 5 of IS4NCDs, and the A
 
 ::::
 
+## Latest essay
+
+<a class="essay-feature" href="writing/lusaka-research-concentration.html">
+<img src="writing/images/hero.svg" alt="Title image for the essay One City Writes Zambia's Health Science">
+<span class="ef-body"><span class="ef-tag">Essay &middot; October 2026</span><span class="ef-title">One City Writes Zambia's Health Science</span><span class="ef-desc">Of 7,996 Zambia-affiliated PubMed records since 2000, 83.9 per cent name Lusaka. Where Zambian health research is led, and why the geography matters.</span><span class="ef-go">Read the essay &rarr;</span></span>
+</a>
+
 ## Get in touch
 
 ```{=html}

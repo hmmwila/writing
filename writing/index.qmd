@@ -5,9 +5,11 @@ listing:
     - "*.qmd"
     - "!index.qmd"
   sort: "date desc"
-  type: default
+  type: grid
+  grid-columns: 2
+  image-height: 12rem
   categories: true
-  fields: [date, title, description, categories]
+  fields: [image, date, title, description, categories]
 page-layout: full
 ---
 
