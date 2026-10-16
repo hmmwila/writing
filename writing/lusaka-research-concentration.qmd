@@ -11,10 +11,6 @@ page-layout: article
 toc: false
 ---
 
-::: {.essay-status}
-**Working draft.** Counts come from PubMed searches run on 21 September 2026 and will be updated as 2026 records are indexed.
-:::
-
 ```{=html}
 <div class="stat-strip">
   <div class="stat"><span class="num">83.9%</span><span class="lab">of 7,996 Zambia-affiliated PubMed records name Lusaka in an author's address</span></div>
