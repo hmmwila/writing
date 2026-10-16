@@ -1,23 +1,79 @@
 ---
-title: "Mwila Hilton Mwaba"
-subtitle: "Biopharmaceutical scientist and lecturer, Copperbelt University, Zambia"
+pagetitle: "Mwila Hilton Mwaba"
+page-layout: custom
+title-block-style: none
 ---
 
-::: lede
-I work on pharmacogenomics, structural biology and implementation science for non-communicable diseases, and I write about how health research is produced, governed and taught in Zambia.
+::: {.hero}
+::: {.wrap}
+<p class="eyebrow">Copperbelt University &middot; Ndola, Zambia</p>
+
+# Mwila Hilton Mwaba
+
+<p class="tagline">Biopharmaceutical scientist and lecturer working on pharmacogenomics, structural biology and implementation science for non-communicable diseases, and writing about how health research is produced, governed and taught in Zambia.</p>
+
+<div class="btn-row">
+<a class="btn-primary-amber" href="writing/index.html">Read my writing</a>
+<a class="btn-ghost" href="projects.html">See projects</a>
+<a class="btn-ghost" href="https://www.linkedin.com/in/mwilahilton">LinkedIn</a>
+<a class="btn-ghost" href="https://orcid.org/0000-0003-2634-7072">ORCID</a>
+</div>
+:::
 :::
 
-I am a Lecturer in the Basic Sciences Department at the Michael Chilufya Sata School of Medicine, Copperbelt University, Ndola, where I have taught since 2019 and coordinate undergraduate research. My doctorate in Pharmaceutical Sciences is from Hokkaido University, Japan. This site collects my essays, the projects I am currently leading, and my publications.
+::: {.home-body}
 
-## Recent writing
+<p class="intro">I am a Lecturer in the Basic Sciences Department at the Michael Chilufya Sata School of Medicine, Copperbelt University, where I have taught since 2019 and coordinate undergraduate research. My doctorate in Pharmaceutical Sciences is from Hokkaido University, Japan. This site collects my essays, the projects I am currently leading, and my publications.</p>
+
+<div class="chips">
+<span class="chip">Pharmacogenomics</span>
+<span class="chip">Structural biology</span>
+<span class="chip">Bioinformatics</span>
+<span class="chip">Implementation science</span>
+<span class="chip">Research ethics</span>
+<span class="chip">Biostatistics</span>
+<span class="chip">Immunology teaching</span>
+</div>
+
+## What I do
+
+:::: {.card-grid}
+
+::: {.card}
+<span class="tag">Research</span>
+
+### Evidence and where it comes from
+
+Computational and structural approaches to drug targets, with a continuing interest in who produces health evidence in Zambia, and where.
+:::
+
+::: {.card}
+<span class="tag">Teaching</span>
+
+### Biomedical sciences
+
+Immunology and related assessments for BSc Biomedical Sciences students, including the fourth-year MBM 425 examination.
+:::
+
+::: {.card}
+<span class="tag">Leadership</span>
+
+### Programmes and networks
+
+Programme development for pharmacogenomics, Work Package 5 of IS4NCDs, and the African Bioethics Network in Zambia.
+:::
+
+::::
+
+## Get in touch
 
 ```{=html}
-<p class="meta">New essays appear on the <a href="writing/index.html">Writing</a> page.</p>
+<div class="contact-grid">
+<a class="contact-tile" href="mailto:hilton.mwaba@cbu.ac.zm"><span class="label">Email</span><span class="value">hilton.mwaba@cbu.ac.zm</span></a>
+<a class="contact-tile" href="tel:+260776866211"><span class="label">Phone</span><span class="value">+260 776 866 211</span></a>
+<a class="contact-tile" href="https://www.linkedin.com/in/mwilahilton"><span class="label">LinkedIn</span><span class="value">linkedin.com/in/mwilahilton</span></a>
+<a class="contact-tile" href="https://orcid.org/0000-0003-2634-7072"><span class="label">ORCID</span><span class="value">0000-0003-2634-7072</span></a>
+</div>
 ```
 
-## Where to find me
-
-- Email: [hilton.mwaba@cbu.ac.zm](mailto:hilton.mwaba@cbu.ac.zm)
-- Phone: [+260 776 866 211](tel:+260776866211)
-- LinkedIn: [linkedin.com/in/mwilahilton](https://www.linkedin.com/in/mwilahilton)
-- ORCID: [0000-0003-2634-7072](https://orcid.org/0000-0003-2634-7072)
+:::
