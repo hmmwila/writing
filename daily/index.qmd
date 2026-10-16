@@ -1,0 +1,15 @@
+---
+title: "Daily Health Brief"
+listing:
+  contents:
+    - "*.qmd"
+    - "!index.qmd"
+  sort: "date desc"
+  type: grid
+  grid-columns: 2
+  categories: true
+  fields: [date, title, description, categories]
+page-layout: full
+---
+
+One health or biomedical topic worth knowing, each weekday, with the sources behind it. Every claim is traced to a published source before it appears here.
