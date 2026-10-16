@@ -1,0 +1,30 @@
+---
+title: "About"
+---
+
+I am a biopharmaceutical scientist and Lecturer in the Basic Sciences Department at the Michael Chilufya Sata School of Medicine (MCSSoM), Copperbelt University (CBU), Ndola, Zambia. I completed a Doctor of Pharmaceutical Sciences at Hokkaido University, Japan, in 2019 and joined CBU in September 2019. I have since served as Head of the Basic Sciences Department and, in December 2022, as Acting Dean, and I have coordinated undergraduate research at the School since 2015.
+
+## Teaching
+
+I set and moderate immunology assessments for BSc Biomedical Sciences students, including the fourth-year MBM 425 Immunology examination and the fifth-year assessments linked to hospital placements.
+
+## Research interests
+
+My work spans pharmacogenomics, structural biology (AlphaFold2, GROMACS, CASTp and FoldX), bioinformatics, implementation science for non-communicable diseases, biostatistics, and research ethics governance. A recurring thread is the question of who produces health evidence in Zambia, and where.
+
+## Roles
+
+- Programme Development Lead, proposed MSc and DSc in Pharmacogenomics and Personalised Medicine
+- Work Package 5 (Core Modules) Lead, IS4NCDs
+- Country Representative for Zambia, African Bioethics Network
+- Establishing the Centre for Computational Health Sciences at CBU
+- Incoming HIGH IRI Fellow, Washington University in St. Louis (in residence, Cape Town)
+
+## Contact
+
+Michael Chilufya Sata School of Medicine, Copperbelt University, P. O. Box 71191, Ndola, Zambia.
+
+- Email: [hilton.mwaba@cbu.ac.zm](mailto:hilton.mwaba@cbu.ac.zm)
+- Phone: [+260 776 866 211](tel:+260776866211)
+- LinkedIn: [linkedin.com/in/mwilahilton](https://www.linkedin.com/in/mwilahilton)
+- ORCID: [0000-0003-2634-7072](https://orcid.org/0000-0003-2634-7072)

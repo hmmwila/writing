@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", serif;
+$font-family-base: $font-family-sans-serif;
+$headings-font-family: $font-family-sans-serif;
+$body-color: #1f2933;
+$link-color: #1b4965;
+$link-hover-color: #0b2a3c;
+$navbar-bg: #ffffff;
+$navbar-fg: #1f2933;
+$navbar-hl: #1b4965;
+$font-size-base: 1.08rem;
+$line-height-base: 1.7;
+
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #d9dee3; }
+.navbar-brand { font-weight: 600; letter-spacing: 0.01em; }
+h1, h2, h3 { font-weight: 600; letter-spacing: -0.005em; }
+h1.title { margin-bottom: 0.4rem; }
+.quarto-title-meta { font-size: 0.9rem; }
+.lede { font-size: 1.2rem; color: #3e4c59; max-width: 38rem; }
+.meta { font-size: 0.92rem; color: #52606d; }
+.page-columns .content, main.content { max-width: 46rem; }
+.listing-title a { color: #1b4965; }
+.nav-footer { border-top: 1px solid #d9dee3; font-size: 0.9rem; color: #52606d; }
+.callout-note { border-left-color: #1b4965 !important; }

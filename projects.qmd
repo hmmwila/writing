@@ -1,0 +1,28 @@
+---
+title: "Projects"
+---
+
+::: {.callout-note}
+## For the author
+Edit each entry so that it says only what you are happy to have public. Remove anything that is not yet announced.
+:::
+
+## IS4NCDs: core modules
+
+I lead Work Package 5 (Core Modules) of the IS4NCDs consortium, which develops short courses and a curriculum roadmap for implementation science in non-communicable diseases, working with partner institutions in Europe and Africa.
+
+## Centre for Computational Health Sciences
+
+I am establishing the Centre for Computational Health Sciences at Copperbelt University, to bring bioinformatics, structural biology and data science into health research and teaching at the School.
+
+## MSc and DSc in Pharmacogenomics and Personalised Medicine
+
+I lead the development of these proposed postgraduate programmes, which are being prepared for accreditation by the Higher Education Authority.
+
+## African Bioethics Network
+
+I serve as the Country Representative for Zambia, contributing to ethics governance materials and capacity building.
+
+## HIGH IRI Fellowship
+
+I am an incoming HIGH IRI Fellow at Washington University in St. Louis, in residence in Cape Town.

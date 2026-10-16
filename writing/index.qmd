@@ -1,0 +1,14 @@
+---
+title: "Writing"
+listing:
+  contents:
+    - "*.qmd"
+    - "!index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, description, categories]
+page-layout: full
+---
+
+Essays and notes on health research, research governance and teaching in Zambia.

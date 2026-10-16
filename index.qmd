@@ -1,0 +1,23 @@
+---
+title: "Mwila Hilton Mwaba"
+subtitle: "Biopharmaceutical scientist and lecturer, Copperbelt University, Zambia"
+---
+
+::: lede
+I work on pharmacogenomics, structural biology and implementation science for non-communicable diseases, and I write about how health research is produced, governed and taught in Zambia.
+:::
+
+I am a Lecturer in the Basic Sciences Department at the Michael Chilufya Sata School of Medicine, Copperbelt University, Ndola, where I have taught since 2019 and coordinate undergraduate research. My doctorate in Pharmaceutical Sciences is from Hokkaido University, Japan. This site collects my essays, the projects I am currently leading, and my publications.
+
+## Recent writing
+
+```{=html}
+<p class="meta">New essays appear on the <a href="writing/index.html">Writing</a> page.</p>
+```
+
+## Where to find me
+
+- Email: [hilton.mwaba@cbu.ac.zm](mailto:hilton.mwaba@cbu.ac.zm)
+- Phone: [+260 776 866 211](tel:+260776866211)
+- LinkedIn: [linkedin.com/in/mwilahilton](https://www.linkedin.com/in/mwilahilton)
+- ORCID: [0000-0003-2634-7072](https://orcid.org/0000-0003-2634-7072)

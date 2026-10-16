@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Mwila Hilton Mwaba"
+  description: "Writing, projects and publications of Mwila Hilton Mwaba, Copperbelt University, Zambia"
+  site-url: "https://hmmwila.github.io/writing/"
+  draft-mode: gone
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: writing/index.qmd
+        text: Writing
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "© Mwila Hilton Mwaba. Views expressed are my own."
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mwilahilton
+        aria-label: LinkedIn
+      - text: "ORCID"
+        href: https://orcid.org/0000-0003-2634-7072
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    email-obfuscation: javascript

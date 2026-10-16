@@ -1,0 +1,14 @@
+---
+title: "One City Writes Zambia's Health Science"
+description: "Where Zambian health research is written, and what that means for the evidence the country relies on."
+date: 2026-10-16
+categories: [bibliometrics, research equity, Zambia]
+draft: true
+---
+
+::: {.callout-note}
+## Draft, hidden from the published site
+Remove `draft: true` from the top of this file when you are ready to publish. Paste the final text of the essay or the method note below, together with Tables 1 to 3 and the PubMed query, once you have checked them against the journal's policy on prior posting.
+:::
+
+Of the 7,996 PubMed records published since 2000 with a Zambian affiliation, 6,705 (83.9 per cent) name Lusaka in at least one author's address.

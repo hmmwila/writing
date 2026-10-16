@@ -1,0 +1,16 @@
+---
+title: "Publications"
+---
+
+::: {.callout-note}
+## For the author
+This page is deliberately empty of citations. Paste your own reference list here, checked against the published versions, so that nothing on the site is carried over from memory. A short Google Scholar or ORCID link at the top is usually enough to keep it current.
+:::
+
+## In preparation
+
+- Mwaba, M. H. *One City Writes Zambia's Health Science.* Viewpoint, in preparation for journal submission.
+
+## Journal articles
+
+Add entries here in APA author-date style, newest first.
