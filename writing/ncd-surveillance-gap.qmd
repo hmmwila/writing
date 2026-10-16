@@ -1,0 +1,108 @@
+---
+title: "The Burden We Do Not Count"
+author: "Mwila Hilton Mwaba"
+date: 2026-10-16
+description: "Non-communicable diseases cause roughly 28 to 29 per cent of deaths in Zambia but took 8 to 11 per cent of health spending, and almost nothing is measured about what mining leaves in the bodies of Copperbelt residents."
+categories: [non-communicable diseases, mining, surveillance, Zambia]
+image: images/hero-ncd.svg
+title-block-banner: true
+title-block-banner-color: "#ffffff"
+page-layout: article
+toc: false
+---
+
+```{=html}
+<div class="stat-strip">
+  <div class="stat"><span class="num">28&ndash;29%</span><span class="lab">of deaths in Zambia are caused by non-communicable diseases (ZNPHI, 2026)</span></div>
+  <div class="stat amber"><span class="num">8&ndash;11%</span><span class="lab">of total health spending went to NCDs in each year from 2013 to 2016</span></div>
+  <div class="stat rust"><span class="num">42%</span><span class="lab">of current health expenditure came from donors on average over 2013&ndash;16</span></div>
+  <div class="stat teal"><span class="num">9 yrs</span><span class="lab">between the 2017 national STEPS survey and the 2026 fieldwork now under way</span></div>
+</div>
+```
+
+Non-communicable diseases account for approximately 28 to 29 per cent of all deaths in Zambia according to the Zambia National Public Health Institute (Sichula, 2026), and yet they received between 8 and 11 per cent of total health spending in each year from 2013 to 2016, when infectious diseases took between 58 and 68 per cent and HIV/AIDS and sexually transmitted infections alone took between 28 and 43 per cent (Zambia National Health Accounts, n.d.). Donors supplied 42 per cent of current health expenditure on average over those years, and about 70 per cent of donor funds in 2016 went to HIV/AIDS and sexually transmitted infections, which suggests that the shape of the budget follows the shape of external money at least as closely as it follows the shape of the burden. The two figures come from different years and different sources, so we read them as an order of magnitude and not as a precise ratio.
+
+```{=html}
+<div class="contrast">
+  <div class="contrast-head">What NCDs cause, and what they receive</div>
+  <div class="contrast-body">
+    <div class="side high"><span class="big">28&ndash;29%</span><span class="cap">share of all deaths in Zambia</span></div>
+    <div class="vs">vs</div>
+    <div class="side low"><span class="big">8&ndash;11%</span><span class="cap">share of total health spending, 2013&ndash;16</span></div>
+  </div>
+  <div class="contrast-foot">Deaths: ZNPHI briefing reported by Sichula (2026). Spending: Zambia National Health Accounts 2013&ndash;2016 policy brief. Different years and sources.</div>
+</div>
+```
+
+## Two cities, two disease profiles?
+
+A tidy contrast suggests itself, with Lusaka dominated by infectious disease because of its population density and the Copperbelt dominated by non-communicable disease because of mining, and we began by expecting the data to show it. The data we could find do not. The 2021 Zambia Population-Based HIV Impact Assessment recorded HIV prevalence among adults aged 15 years and above of 14.4 per cent in Lusaka and 11.9 per cent in the Copperbelt against 11.0 per cent nationally (ZAMPHIA 2021 Study Group, 2022), so the Copperbelt carries an HIV burden above the national figure as well. Nor is hypertension a mining-town condition, since earlier studies in the Lusaka urban district reported prevalence of 34.8 per cent (as cited in Pengpid & Peltzer, 2020) against 18.9 per cent among adults nationally in the 2017 STEPS survey, and the Zambia National Public Health Institute reports up to 35 per cent in urban areas against about 23 per cent in rural areas (Sichula, 2026). The gradient we can document is therefore urban and not occupational.
+
+We propose that the Copperbelt difference, if there is one, lies in exposures which national surveys do not measure, namely the metals that mining and smelting leave in soil, water, food and people, and this remains a hypothesis. The sources we located report no province-level NCD estimates for the Copperbelt, so the data cannot confirm the idea or reject it, and that silence is the central problem of this essay.
+
+## What mining leaves behind, and who has looked
+
+An occupational health presentation at the 2018 Ministry of Health and EQUINET meeting cited an assessment which found copper, cobalt, lead and zinc in high concentrations in areas around the Nkana and Chingola smelters on the Copperbelt (Ministry of Health Zambia & EQUINET, 2018). What is known about human exposure comes mostly from Kabwe, which lies in Central Province and not on the Copperbelt, where a lead and zinc mine operated for most of the twentieth century. A study of 504 residents across 40 areas of Kabwe found blood lead generally higher closer to the mine, cadmium significantly elevated in two of the most lead-affected areas, and liver and kidney markers outside normal ranges in roughly 20 to 50 per cent of adults, with blood cadmium correlating negatively with estimated glomerular filtration rate in all groups except children aged 0 to 4 (Nakata et al., 2021). An earlier study reported at the 2018 meeting recorded children's blood lead levels of up to 162 µg/dL, with about a quarter of the children above 45 µg/dL, the level at which chelation therapy is considered (Ministry of Health Zambia & EQUINET, 2018).
+
+Kabwe shows that exposure can be measured and that the findings are serious. It also shows how narrow the measurement has been, as Muimba-Kankolongo et al. (2022) observe in their cross-border study of the Zambian and Congolese Copperbelt that in Zambia only investigations in children with lead poisoning are well established, and urine could not be collected from Zambian participants because of administrative issues with the Ministry of Health. In the same study, mean lead in Zambian water samples was far lower than in the Democratic Republic of Congo (1.5 against 2,361.1 µg/L), which is a reminder that exposure varies from place to place and has to be measured and not assumed (Muimba-Kankolongo et al., 2022).
+
+## Surveillance follows what is already counted
+
+The speakers at the 2018 meeting described a system that watches what it has already learned to watch. Only 53 per cent of current mineworkers were screened for tuberculosis each year against 97 per cent screened for silicosis, delegates noted that public health services may not link ailments to a person's occupation, and they questioned whether ex-mineworkers are adequately traced after they leave mining areas (Ministry of Health Zambia & EQUINET, 2018). In Kabwe, cases of lead poisoning were said to be either not recorded properly or misdiagnosed, and no epidemiological study had linked childhood deaths to lead, while no epidemiological study of mercury exposure had been done in Zambia at all (Ministry of Health Zambia & EQUINET, 2018). The National Cancer Registry, which would be the obvious place to look for metal-related cancers, states its aim as complete coverage of the Lusaka district, and since 2015 provincial medical offices have entered data for their own provinces, although a backlog remains in the Lusaka office (African Cancer Registry Network, n.d.). The national STEPS survey, which is the main instrument for tracking NCD risk factors, was last conducted in 2017 with 4,302 adults and is in the field again from April to June 2026 with about 5,762 participants across all ten provinces (Pengpid & Peltzer, 2020; Sichula, 2026).
+
+Taken together, these sources describe snapshots and not follow-up. We located no longitudinal surveillance of mining-related NCDs on the Copperbelt, whether of kidney disease, cancers, hypertension or neurodevelopmental outcomes, and no cohort which follows residents or former mineworkers over time, although absence from our search does not prove absence from the country.
+
+```{=html}
+<div class="data-tables-visible">
+
+<table>
+<thead><tr><th>What a surveillance system for mining-related NCDs would need</th><th>What we found</th></tr></thead>
+<tbody>
+<tr><td>Baseline metal exposure in residents (blood, urine)</td><td>Studied in Kabwe (Central Province); in the Zambian Copperbelt only lead poisoning in children is well established, and urine was not collected</td></tr>
+<tr><td>Repeated NCD measurement by province</td><td>National STEPS in 2017, next fieldwork in 2026; no province-level estimates in the sources we located</td></tr>
+<tr><td>Cancer incidence outside the capital</td><td>Registry aims for complete coverage of Lusaka district; provincial data entry since 2015, with a backlog</td></tr>
+<tr><td>Occupational link and tracing of ex-mineworkers</td><td>Delegates reported weak linkage of ailments to occupation and doubts about tracing</td></tr>
+<tr><td>Financing</td><td>NCDs 8 to 11 per cent of health spending, 2013 to 2016</td></tr>
+</tbody>
+</table>
+
+</div>
+```
+
+## Why the counting matters
+
+A disease that is not measured cannot be costed, and a disease that is not costed competes poorly for funding with HIV, which has dedicated population surveys such as ZAMPHIA supported by PEPFAR and the United States Centers for Disease Control and Prevention (ZAMPHIA 2021 Study Group, 2022), which is one way in which a burden of 28 to 29 per cent of deaths could sit behind a funding share of 8 to 11 per cent. The geography we described in [the first essay](lusaka-research-concentration.html) bears on this as well, since research, programmes and surveys are concentrated in the capital and a question that belongs to Kitwe, Chingola or Mufulira has fewer people positioned to ask it. We do not claim that this chain of reasoning has been tested. We claim only that each link in it is plausible and that the data needed to test it have not been collected.
+
+```{=html}
+<div class="remedies">
+  <div class="remedy"><span class="r-num">1</span><h3>Measure exposure first</h3><p>A baseline biomonitoring survey of residents and mineworkers around the Copperbelt smelters, covering blood and urine metals and kidney function, so that the hypothesis can be tested.</p></div>
+  <div class="remedy"><span class="r-num">2</span><h3>Follow people over time</h3><p>A cohort that links occupational records to NCD outcomes and traces former mineworkers after they leave mining areas.</p></div>
+  <div class="remedy"><span class="r-num">3</span><h3>Report by province</h3><p>Publish STEPS results by province, extend cancer registration beyond Lusaka district, and track NCD spending as closely as HIV spending.</p></div>
+</div>
+```
+
+## Sources and limits
+
+This essay draws on published and grey sources located in October 2026 and is not a systematic review. Several figures reach us second-hand, namely the ZNPHI statistics through a news report of a media briefing, and the Kabwe blood lead figures and the occupational screening figures through a meeting report in which speakers described studies and programmes they were involved in. The 8 to 11 per cent spending share is drawn from 2013 to 2016 accounts and may have changed. The Zambian water figures in Muimba-Kankolongo et al. (2022) come from selected sites and cannot be generalised to the Copperbelt as a whole. This is a working argument and not a finding, and we would welcome corrections from anyone who knows of Copperbelt surveillance data that we missed.
+
+## References
+
+::: {.references-list}
+
+African Cancer Registry Network. (n.d.). *Zambia National Cancer Registry*. https://afcrn.org/membership/members/135-zambiacancerregistry
+
+Ministry of Health Zambia & EQUINET. (2018). *Mining and public health in Zambia: Meeting report, 10 April 2018, Lusaka*. https://equinetafrica.org/sites/default/files/uploads/documents/Zambia%20mining%20and%20public%20health%20Mtg%20Rep%20April2018.pdf
+
+Muimba-Kankolongo, A., Banza Lubaba Nkulu, C., Mwitwa, J., Kampemba, F. M., & Mulele Nabuyanda, M. (2022). Impacts of trace metals pollution of water, food crops, and ambient air on population health in Zambia and the DR Congo. *Journal of Environmental and Public Health, 2022*, 4515115. https://doi.org/10.1155/2022/4515115
+
+Nakata, H., Nakayama, S. M. M., Yabe, J., Muzandu, K., Toyomaki, H., Yohannes, Y. B., Kataba, A., Zyambo, G., Ikenaka, Y., Choongo, K., & Ishizuka, M. (2021). Clinical biochemical parameters associated with the exposure to multiple environmental metals in residents from Kabwe, Zambia. *Chemosphere, 262*, 127788. https://doi.org/10.1016/j.chemosphere.2020.127788
+
+Pengpid, S., & Peltzer, K. (2020). Prevalence and correlates of multiple non-communicable disease risk factors among adults in Zambia: Results of the first national STEPS survey in 2017. *Pan African Medical Journal, 37*, 265. https://www.panafrican-med-journal.com/content/article/37/265/full
+
+Sichula, A. (2026, March 31). Zambia begins nationwide survey to tackle rising non-communicable diseases surge. *Zambia Monitor*. https://www.zambiamonitor.com/?p=83579
+
+Zambia National Health Accounts 2013-2016: Policy brief. (n.d.). World Bank Documents. https://documents1.worldbank.org/curated/en/902891559640910935/pdf/Zambia-National-Health-Accounts-2013-2016-Policy-Brief.pdf
+
+ZAMPHIA 2021 Study Group. (2022). *Zambia Population-Based HIV Impact Assessment: ZAMPHIA 2021* (Summary sheet, December 2022). Ministry of Health Zambia, Zambia Statistics Agency, PEPFAR, CDC, ICF and University of Maryland, Baltimore. https://stacks.cdc.gov/view/cdc/133880
+
+:::
