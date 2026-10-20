@@ -1,0 +1,38 @@
+---
+title: "Cholera in Zambia: rehydration first, antibiotics for the few"
+author: "Mwila Hilton Mwaba"
+date: "2026-10-20"
+description: "As Zambia reports a growing cholera outbreak and some resistant strains, we review who should receive antibiotics and why genomic surveillance matters."
+categories: [cholera, antimicrobial-resistance, zambia]
+toc: false
+---
+
+## What it is
+
+Zambia had recorded 874 cumulative cholera cases and 23 deaths across 13 districts in five provinces by 13 October 2026, with Lusaka and Chibombo accounting for most of them (Times of Zambia, 2026). Officials have since turned attention to antibiotic use, as a Lusaka provincial health director reported that some strains recorded in the country no longer respond to antibiotics, while the Director General of the Zambia National Public Health Institute (ZNPHI) stated that not every patient needs them during an outbreak (News Diggers, 2026).
+
+## Why it matters
+
+Fluid replacement remains the foundation of cholera care, since most infected people have no or mild symptoms and those with mild or moderate disease can be treated with oral rehydration solution, whereas patients with severe disease need intravenous fluids, oral rehydration and antibiotics (World Health Organization [WHO], 2026a). The Global Task Force on Cholera Control (GTFCC) restricts antibiotics to suspected patients hospitalised with severe dehydration and, irrespective of dehydration grade, to those with high purging, failure after four hours of rehydration, or higher-risk conditions such as pregnancy, severe acute malnutrition, HIV or age above 60 years, with doxycycline preferred where the strain is susceptible (GTFCC, 2022). Mass chemoprophylaxis is not recommended, as the same note records that every antibiotic used against cholera has documented resistance (GTFCC, 2022). Sequencing is the tool that lets us see such changes early, which is why a ZNPHI and CIDRZ course held from 28 September to 7 October 2026 trained 17 participants from Zambia, Malawi and Zimbabwe, including Copperbelt University, in genome assembly, phylogenetics and resistance detection (Centre for Infectious Disease Research in Zambia [CIDRZ], 2026). The wider picture is large, as WHO counted 114,829 cases and 1,318 deaths from 23 countries between January and May 2026 (WHO, 2026b).
+
+## What to remember
+
+We should treat dehydration first and reserve antibiotics for the groups named above, because indiscriminate use selects for resistance without improving outcomes in mild disease. Local susceptibility data, rather than assumption, should guide the choice of agent. Finally, outbreak response in Zambia now depends as much on laboratory genomics as on clinical care.
+
+::: {.references-list}
+
+Centre for Infectious Disease Research in Zambia. (2026, October 19). *CIDRZ and ZNPHI strengthening cholera surveillance through genomics training*. https://www.cidrz.org/2026/10/19/cidrz-and-znphi-strengthening-cholera-surveillance-through-genomics-training/
+
+Global Task Force on Cholera Control. (2022). *Use of antibiotics for the treatment and control of cholera: Interim technical note* (revised October 2022). https://www.gtfcc.org/wp-content/uploads/2025/02/gtfcc-technical-note-on-use-of-antibiotics-for-the-treatment-of-cholera.pdf
+
+News Diggers. (2026, October 9). *Some cholera strains no longer responding to antibiotics - MoH*. https://diggers.news/local/2026/10/09/some-cholera-strains-no-longer-responding-to-antibiotics-moh/
+
+Times of Zambia. (2026, October 13). *Cholera: 55 new cases, 1 death recorded*. https://times.co.zm/cholera-55-new-cases-1-death-recorded
+
+World Health Organization. (2026a, September 29). *Cholera* [Fact sheet]. https://www.who.int/news-room/fact-sheets/detail/cholera
+
+World Health Organization. (2026b, June 30). *Multi-country outbreak of cholera: Epidemiological update 38*. https://cdn.who.int/media/docs/default-source/documents/emergencies/situation-reports/20260630_multi-country_outbreak-of-cholera_epidemiological_update_38.pdf
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
