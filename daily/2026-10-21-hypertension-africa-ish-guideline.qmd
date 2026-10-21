@@ -1,0 +1,30 @@
+---
+title: "Hypertension in Africa: the 2026 ISH and PASCAR guideline"
+author: "Mwila Hilton Mwaba"
+date: "2026-10-21"
+description: "A new continental guideline recommends single-pill combination therapy, tighter targets for higher-risk patients and formal task-shifting to non-physician health workers."
+categories: [hypertension, guidelines, ncds]
+toc: false
+---
+
+## What it is
+
+The 2026 guideline from the International Society of Hypertension (ISH) African Regional Advisory Group and the Pan African Society of Cardiology (PASCAR) addresses a gap its authors acknowledge, as Africa has lacked a harmonised continental guideline (ISH African Regional Advisory Group & PASCAR, 2026). Hypertension is defined as an office blood pressure of 140/90 mmHg or higher, confirmed at two or more visits, or as a home average of 135/85 mmHg or higher (ISH African Regional Advisory Group & PASCAR, 2026).
+
+## Why it matters
+
+Prevalence in sub-Saharan Africa is projected to reach 216 million people by 2030 from 55 million in 1990, while only about 8 to 15% of diagnosed adults have their blood pressure under control (ISH African Regional Advisory Group & PASCAR, 2026). With roughly five physicians per 10,000 people, the guideline states that diagnosis and treatment should not rest with doctors alone, and that nurses and other non-physician health workers should be formally empowered to diagnose, prescribe and monitor under physician oversight (ISH African Regional Advisory Group & PASCAR, 2026).
+
+On treatment, it advises single-pill combinations of two or three drugs where available and affordable, as most patients will need dual therapy and early initiation improves control (ISH African Regional Advisory Group & PASCAR, 2026). Long-acting dihydropyridine calcium channel blockers, thiazide or thiazide-like diuretics, and ACE inhibitors or angiotensin receptor blockers are the first-line classes, although the last two are avoided in pregnancy and are never combined with each other (ISH African Regional Advisory Group & PASCAR, 2026).
+
+## What to remember
+
+Medium- and high-risk patients, including those with diabetes or chronic kidney disease, are advised a target below 130/80 mmHg if tolerated, whereas low-risk patients have a target below 140/90 mmHg (ISH African Regional Advisory Group & PASCAR, 2026). Lifestyle advice includes limiting sodium to about 2 g per day, equivalent to one level teaspoon of salt, and considering potassium-enriched salt (ISH African Regional Advisory Group & PASCAR, 2026). Good control could prevent up to 250,000 hypertension-related deaths each year, which is why simple regimens delivered close to the patient matter as much as the drugs themselves (ISH African Regional Advisory Group & PASCAR, 2026).
+
+::: {.references-list}
+
+International Society of Hypertension African Regional Advisory Group & Pan African Society of Cardiology. (2026). 2026 ISH guidelines for the management of hypertension in Africa. *Journal of Hypertension, 44*. https://doi.org/10.1097/HJH.0000000000004411
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
