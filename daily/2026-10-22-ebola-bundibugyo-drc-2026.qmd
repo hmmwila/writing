@@ -1,0 +1,36 @@
+---
+title: "Bundibugyo Ebola in the DRC: the 2026 outbreak and what it means for Zambia"
+author: "Mwila Hilton Mwaba"
+date: "2026-10-22"
+description: "The 2026 Bundibugyo virus outbreak in the Democratic Republic of the Congo has exceeded 8,700 confirmed cases, with no approved vaccine or specific treatment, and Zambia shares a border of more than 2,000 km with the affected country."
+categories: [ebola, outbreaks, zambia]
+toc: false
+---
+
+## What it is
+
+The 2026 outbreak of Bundibugyo virus disease in the Democratic Republic of the Congo (DRC) had reached 8,728 confirmed cases and 4,205 confirmed deaths by 6 October 2026, a crude case fatality of 48.2%, with cases in 64 health zones across seven of the country's 26 provinces (World Health Organization [WHO], 2026a). Bundibugyo is one of the ebolavirus species, and unlike Zaire ebolavirus it has no approved vaccine or specific treatment (WHO, 2026a). Ebolaviruses pass between people through direct contact with the blood, secretions, organs or other body fluids of infected people, or through contaminated items such as bedding and clothing, while symptoms appear 2 to 21 days after infection (WHO Regional Office for Africa, n.d.).
+
+## Why it matters
+
+WHO rates the national risk as very high and the risk for neighbouring countries that share land borders with the DRC as high (WHO, 2026a), which places Zambia within the group of concern as the Zambia National Public Health Institute (ZNPHI) described the country as being at increased risk, with a border with the DRC of more than 2,000 kilometres (Lusaka Times, 2026). We found no report of a confirmed case in Zambia in the sources we read. The response itself is under strain, as Africa CDC reported on 1 October 2026 that daily contact follow-up stood at 81.3% against a containment threshold of 95%, and that 270 healthcare workers had been infected (Africa CDC, 2026).
+
+## What to remember
+
+The licensed Ervebo vaccine is approved only for Zaire ebolavirus, and WHO advises that its use against Bundibugyo virus should take place only within research protocols because evidence remains insufficient to show whether it protects people (WHO, 2026b). Rehydration and treatment of specific symptoms improve survival, while the two monoclonal antibodies approved by the US Food and Drug Administration (Inmazeb and Ebanga) are approved for Zaire ebolavirus infection (WHO Regional Office for Africa, n.d.). We should therefore treat early recognition, infection prevention in health facilities and contact tracing as the working tools for this species.
+
+::: {.references-list}
+
+Africa CDC. (2026, October 1). *Bundibugyo virus disease outbreak situational report, October 1, 2026*. Africa Health Knowledge Hub. https://khub.africacdc.org/records/resource/bundibugyo-virus-disease-outbreak-situational-report-october-1-2026
+
+Lusaka Times. (2026, July 6). *ZNPHI intensifies surveillance measures to prevent Ebola*. https://www.lusakatimes.com/2026/07/06/znphi-intensifies-surveillance-measures-to-prevent-ebola/
+
+World Health Organization. (2026a, October 8). *Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo* (Disease Outbreak News). https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619
+
+World Health Organization. (2026b, August 31). *WHO emergency guidance on the use of licensed Ebola vaccine during Bundibugyo virus disease outbreaks*. https://www.who.int/publications/i/item/B09884
+
+World Health Organization Regional Office for Africa. (n.d.). *Ebola disease*. https://www.afro.who.int/health-topics/ebola-disease
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
