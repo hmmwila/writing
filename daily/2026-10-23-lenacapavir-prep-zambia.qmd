@@ -1,0 +1,38 @@
+---
+title: "Lenacapavir in Zambia: twice-yearly HIV prevention reaches the clinic"
+author: "Mwila Hilton Mwaba"
+date: "2026-10-23"
+description: "Zambia has begun rolling out twice-yearly injectable lenacapavir for HIV prevention, and we review the trial evidence behind it and the caveats that remain."
+categories: [hiv, prep, zambia]
+toc: false
+---
+
+## What it is
+
+Lenacapavir is a twice-yearly injection used as HIV pre-exposure prophylaxis (PrEP), and WHO issued guidelines in July 2025 recommending it as an added option alongside existing PrEP choices, at a time when 1.3 million new HIV infections were occurring worldwide each year (WHO, 2025). Zambia and Eswatini were the first two countries to receive the product, which arrived in November 2025 with first doses given a month later (Global Fund, 2026), while a US-funded shipment reached the University Teaching Hospital in Lusaka on 1 September 2026, with the aim of reaching 82,000 people across 542 health facilities by the end of 2026 (UNAIDS, 2026).
+
+## Why it matters
+
+Zambia recorded 23,000 new HIV infections in 2025, of which adolescents and young people accounted for 37% (UNAIDS, 2026), and the PURPOSE 1 trial in South Africa and Uganda speaks directly to this group as no infections occurred among 2,134 adolescent girls and young women receiving lenacapavir, against 2.02 per 100 person-years with daily oral F/TAF and 1.69 with F/TDF, while background incidence was 2.41 (Bekker et al., 2024). Adherence to both daily oral regimens was low in that trial (Bekker et al., 2024). In PURPOSE 2, which enrolled men and gender-diverse persons, incidence was 0.10 per 100 person-years with lenacapavir and 0.93 with F/TDF (Kelley et al., 2024). Pregnant and lactating women, about 21,000 of whom are expected to benefit in Zambia (UNAIDS, 2026), were studied in a PURPOSE 1 substudy where lenacapavir exposure did not differ significantly by trimester and the median breastfed-infant-to-maternal plasma ratio was 0.02 (Bekker et al., 2026).
+
+## What to remember
+
+Injection-site reactions were more frequent with lenacapavir than with placebo injections (68.8% against 34.9%), although only 0.2% of participants stopped the regimen because of them, and both pivotal trials were funded by Gilead Sciences (Bekker et al., 2024; Kelley et al., 2024). WHO acknowledges that access outside trials remains limited and urges countries to collect data on uptake, adherence and real-world impact as they begin rollout (WHO, 2025). Nearly 100,000 people had received lenacapavir in nine high-burden African countries by mid-August 2026, and generic versions are expected by the end of 2026 (Global Fund, 2026), so Zambian programme data will show us whether trial protection holds in routine care.
+
+::: {.references-list}
+
+Bekker, L.-G., Das, M., Abdool Karim, Q., Ahmed, K., Batting, J., Brumskine, W., Gill, K., Harkoo, I., Jaggernath, M., Kigozi, G., Kiwanuka, N., Kotze, P., Lebina, L., Louw, C. E., Malahleha, M., Manentsa, M., Mansoor, L. E., Moodley, D., Naicker, V., ... Matovu Kiweewa, F. (2024). Twice-yearly lenacapavir or daily F/TAF for HIV prevention in cisgender women. *New England Journal of Medicine, 391*(13), 1179-1192. https://doi.org/10.1056/NEJMoa2407001
+
+Bekker, L.-G., Moodley, D., Diallo, D. D., Harkoo, I., Kigozi, G., Kiwanuka, N., Louw, C. E., Malahleha, M., Mworeko, L., Palanee-Phillips, T., Panchia, R., Singh, N., Puryear, S. B., Arora, P., Baeten, J. M., Brown, A., Carter, C. C., Imperial, M., Ling, J., ... Kiweewa, F. M. (2026). HIV acquisitions, safety, and pharmacokinetics of lenacapavir for HIV pre-exposure prophylaxis in pregnant and lactating women (PURPOSE 1): A substudy of a phase 3, randomised controlled trial. *The Lancet HIV, 13*(9), e621-e630. https://doi.org/10.1016/S2352-3018(26)00112-8
+
+Global Fund. (2026, September 16). *Prevention breakthrough: A historic HIV innovation delivered at unprecedented speed*. https://www.theglobalfund.org/en/stories/2026/2026-09-16-prevention-breakthrough-historic-hiv-innovation-delivered-unprecedented-speed/
+
+Kelley, C. F., Acevedo-Quiñones, M., Agwu, A. L., Avihingsanon, A., Benson, P., Blumenthal, J., Brinson, C., Brites, C., Cahn, P., Cantos, V. D., Clark, J., Clement, M., Creticos, C., Crofoot, G., Diaz, R. S., Doblecki-Lewis, S., Gallardo-Cartagena, J. A., Gaur, A., Grinsztejn, B., ... Ogbuagu, O. (2024). Twice-yearly lenacapavir for HIV prevention in men and gender-diverse persons. *New England Journal of Medicine, 392*(13), 1261-1276. https://doi.org/10.1056/NEJMoa2411858
+
+UNAIDS. (2026, September 9). *UNAIDS works with partners and communities to support Zambia's rollout of lenacapavir to prevent new HIV infections*. https://www.unaids.org/en/resources/presscentre/featurestories/2026/september/20260909_Zambia_Len
+
+World Health Organization. (2025, July 14). *WHO recommends injectable lenacapavir for HIV prevention*. https://www.who.int/news/item/14-07-2025-who-recommends-injectable-lenacapavir-for-hiv-prevention
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
