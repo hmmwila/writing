@@ -1,0 +1,34 @@
+---
+title: "Heatstroke in the hot season: what clinicians and students should know"
+author: "Mwila Hilton Mwaba"
+date: "2026-10-26"
+description: "Heatstroke is a medical emergency in which hyperthermia and brain dysfunction coincide, and the October heat in Zambia makes recognition and rapid cooling a practical priority."
+categories: [heat, public-health, emergency-medicine]
+toc: false
+---
+
+## What it is
+
+Heatstroke is a medical emergency with a high case-fatality rate (World Health Organization [WHO], 2026), defined in the cooling literature as hyperthermia above 40 °C together with nervous system dysregulation, and it arises either during physical exertion or during extreme heat events without exertion (Douma et al., 2020). Zambian clinicians and public health specialists urged the public on 23 October 2026 to take precautions, naming confusion, seizures and loss of consciousness among the signs of brain involvement, although the report gave no temperature readings or case counts (Lusaka Times, 2026).
+
+## Why it matters
+
+WHO estimates that about 489,000 heat-related deaths occurred each year between 2000 and 2019, and that heat-related mortality among people over 65 years rose by about 85% between 2000 to 2004 and 2017 to 2021 (WHO, 2026). In a multi-country analysis of 11 surveillance sites in sub-Saharan Africa, which did not include Zambia but did include Malawi, the odds ratio for nighttime heatwave mortality rose from 1.02 in 2005 to 2010 to 1.18 in 2011 to 2015, while daytime heatwaves showed no significant effect and children under 5 years showed increased risk across heatwave types (He et al., 2025). Nights therefore deserve attention as well as afternoons, as sleeping spaces that do not cool can sustain the exposure which a shaded afternoon would otherwise relieve, although the study does not test that mechanism directly.
+
+## What to remember
+
+In a systematic review of 63 studies, immersion in water at 1 to 17 °C cooled hyperthermic adults faster than passive cooling, with no single temperature range proving superior, which supports rapid cooling wherever immersion is feasible while the patient is moved to care (Douma et al., 2020). WHO identifies people over 65 years, those with heart, lung or kidney conditions, and outdoor and manual workers as especially exposed, and Zambian specialists additionally named children and people with terminal illness (Lusaka Times, 2026; WHO, 2026). We should therefore treat confusion in a hot, dehydrated patient as heatstroke until shown otherwise, and ask our health facilities whether they receive any warning when extreme temperatures are forecast, a coordination gap between the Zambia Meteorological Department and the Ministry of Health that one specialist has already called on authorities to close (Lusaka Times, 2026).
+
+::: {.references-list}
+
+Douma, M. J., Aves, T., Allan, K. S., Bendall, J. C., Berry, D. C., Chang, W.-T., Epstein, J., Hood, N., Singletary, E. M., Zideman, D., & Lin, S. (2020). First aid cooling techniques for heat stroke and exertional hyperthermia: A systematic review and meta-analysis. *Resuscitation, 148*, 173-190. https://doi.org/10.1016/j.resuscitation.2020.01.007
+
+He, C., Zhu, Y., Guo, Y., Bachwenkizi, J., Chen, R., Kan, H., & Fawzi, W. W. (2025). Escalated heatwave mortality risk in sub-Saharan Africa under recent warming trend. *Science Advances, 11*(48), Article eady7379. https://doi.org/10.1126/sciadv.ady7379
+
+Lusaka Times. (2026, October 23). *Zambia: Health experts caution against heatstroke*. https://www.lusakatimes.com/2026/10/23/health-experts-caution-against-heatstroke/
+
+World Health Organization. (2026). *Heat and health* [Fact sheet]. https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
