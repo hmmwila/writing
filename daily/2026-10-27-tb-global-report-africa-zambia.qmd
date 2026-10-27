@@ -1,0 +1,42 @@
+---
+title: "Tuberculosis in 2024: slow global progress, faster gains in Africa"
+author: "Mwila Hilton Mwaba"
+date: "2026-10-27"
+description: "The latest WHO estimates show 10.7 million new tuberculosis cases in 2024, with the African Region cutting deaths faster than the world average while funding stays far below target."
+categories: [tuberculosis, infectious-disease, zambia]
+toc: false
+---
+
+<div class="stat-strip">
+<div class="stat"><span class="num">10.7 million</span><span class="lab">people fell ill with TB, 2024</span></div>
+<div class="stat"><span class="num">1.23 million</span><span class="lab">deaths from TB, 2024</span></div>
+<div class="stat"><span class="num">46%</span><span class="lab">fall in TB deaths, African Region, 2015 to 2024</span></div>
+</div>
+
+## What it is
+
+Tuberculosis (TB) affected an estimated 10.7 million people worldwide in 2024 and caused 1.23 million deaths, including about 150,000 deaths among people with HIV-associated disease, while the WHO African Region accounted for 25% of new cases (World Health Organization [WHO], 2025b). Undernutrition, diabetes and HIV were responsible for an estimated 0.97 million, 0.93 million and 0.57 million new cases respectively (WHO, 2025b), which shows that TB control extends well beyond the clinic.
+
+## Why it matters
+
+Global progress is real but slow: TB deaths fell by 3% in a year, yet the 12% reduction in incidence since 2015 is far short of the 50% target, and the 29% reduction in deaths is far from the 75% goal (CIDRAP, n.d.). The African Region performed better than the world as a whole, with a 28% fall in incidence and a 46% fall in deaths between 2015 and 2024 (WHO, 2025a). For Zambia, the United States Centers for Disease Control and Prevention (CDC) reported an estimated incidence of 283 per 100,000 population in 2023, with 32% of people with TB also living with HIV, down from 71% at the peak of the HIV epidemic (CDC, 2024). Funding remains the main threat, as only US$5.9 billion was available in 2024, just over a quarter of the US$22 billion annual target for 2027 (WHO, 2025a).
+
+## What to remember
+
+We should test for HIV in every person with TB and for TB in every person with HIV, since 61% of people living with HIV who developed TB received antiretroviral therapy in 2024 (WHO, 2025b). Only about two in five people with multidrug-resistant TB accessed treatment (WHO, 2025b), so drug-susceptibility testing remains a priority. Nutritional and diabetes screening belong in the same visit, as both drive a large share of cases.
+
+## References
+
+::: {.references-list}
+
+Centers for Disease Control and Prevention. (2024). *HIV and TB overview: Zambia*. https://www.cdc.gov/global-hiv-tb/php/where-we-work/zambia.html
+
+CIDRAP. (n.d.). *WHO cites progress against TB globally but warns about reduced funding*. CIDRAP. https://www.cidrap.umn.edu/tuberculosis/who-cites-progress-against-tb-globally-warns-about-reduced-funding
+
+World Health Organization. (2025a, 12 November). *Global gains in tuberculosis response endangered by funding challenges*. https://www.who.int/news/item/12-11-2025-global-gains-in-tuberculosis-response-endangered-by-funding-challenges
+
+World Health Organization. (2025b). *Tuberculosis* [Fact sheet]. https://www.who.int/news-room/fact-sheets/detail/tuberculosis
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
