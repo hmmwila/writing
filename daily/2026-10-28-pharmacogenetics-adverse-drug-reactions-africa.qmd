@@ -1,0 +1,36 @@
+---
+title: "Adverse drug reactions in Africa: what pharmacogenetics may explain"
+author: "Mwila Hilton Mwaba"
+date: "2026-10-28"
+description: "A 2026 analysis of VigiBase reports from 47 African countries suggests that anti-infectives such as efavirenz drive most pharmacogenetically relevant adverse drug reactions, while weak reporting hides the true burden."
+categories: [pharmacogenomics, pharmacovigilance, africa]
+toc: false
+---
+
+<div class="stat-strip">
+<div class="stat"><span class="num">1%</span><span class="lab">of VigiBase ADR reports come from Africa</span></div>
+<div class="stat"><span class="num">46,728</span><span class="lab">African reports analysed, from 47 countries</span></div>
+<div class="stat"><span class="num">12% vs 7%</span><span class="lab">share of ADRs from guideline-linked medicines, Africa vs globally</span></div>
+</div>
+
+## What it is
+
+Pharmacogenetics describes how inherited variation alters the response to medicines, and a 2026 analysis in *Clinical Pharmacology & Therapeutics* used VigiBase, the global database of suspected adverse drug reactions (ADRs), to ask how far this matters across 47 African countries over the last ten years (Scholefield et al., 2026). Because genetic testing data were not available, the authors used international guideline definitions of drug-gene interactions to infer the likely contribution of genetic variation, which means the findings describe associations and not proven causes.
+
+## Why it matters
+
+African countries contributed only 1% of ADRs in VigiBase, which the authors regard as a sign of weak pharmacovigilance on the continent, while the reports that were submitted were mainly caused by anti-infectives such as efavirenz (Scholefield et al., 2026). The inferred pharmacogenes with the highest burden of ADRs were *CYP2B6*, *CYP2D6* and *CYP2C19*, and medicines with guideline-based pharmacogenetic advice accounted for 12% of all ADRs reported in Africa compared with 7% globally (Scholefield et al., 2026). These signals are relevant to teaching and policy in Zambia, although the study did not analyse individual countries and we should not read the figures as Zambian estimates.
+
+## What to remember
+
+The analysis has clear limits: there was no genotyping, no data on how many people were exposed to each medicine, and reports may reflect polypharmacy or comorbidity as much as genetics (Scholefield et al., 2026). The practical message is therefore twofold, as stronger reporting of suspected ADRs through national pharmacovigilance systems is needed to see the real burden, while locally generated genotype and outcome data are needed before guideline-based testing is considered for routine care.
+
+## References
+
+::: {.references-list}
+
+Scholefield, J., Mazhindu, T. A., Nagy, M., Twesigomwe, D., Agesa, G., & Masimirembwa, C. (2026). The burden of adverse drug reactions in Africa in the context of pharmacogenetics-based clinical guidelines. *Clinical Pharmacology & Therapeutics, 119*(5), 1382–1390. https://doi.org/10.1002/cpt.70269
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
