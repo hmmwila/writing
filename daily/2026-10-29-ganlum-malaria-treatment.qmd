@@ -1,0 +1,42 @@
+---
+title: "GanLum: a new malaria combination meets its phase III endpoint"
+author: "Mwila Hilton Mwaba"
+date: "2026-10-29"
+description: "A once-daily, three-day combination with a new mechanism of action showed non-inferiority to artemether-lumefantrine in a phase III trial in Africa, while approval is still awaited."
+categories: [malaria, infectious-disease, drug-development]
+toc: false
+---
+
+<div class="stat-strip">
+<div class="stat"><span class="num">97.4%</span><span class="lab">PCR-corrected cure with GanLum (primary estimand), against 94.0% with artemether-lumefantrine</span></div>
+<div class="stat"><span class="num">610,000</span><span class="lab">estimated malaria deaths worldwide, 2024</span></div>
+<div class="stat"><span class="num">about 95%</span><span class="lab">share of malaria cases and deaths in the WHO African Region, 2024</span></div>
+</div>
+
+## What it is
+
+GanLum is a combination of ganaplacide, a new compound understood to disrupt the internal protein transport systems of the malaria parasite, and lumefantrine, the partner drug already used in artemether-lumefantrine (Medicines for Malaria Venture [MMV], 2025; MMV, n.d.). In the phase III KALUMA trial, a randomised, open-label, multicentre study at 34 sites in 12 sub-Saharan African countries, a once-daily three-day course given as a sachet of granules was compared with artemether-lumefantrine in adults and children weighing at least 10 kg with acute uncomplicated malaria, and the primary endpoint was PCR-corrected adequate clinical and parasitological response at day 29 (MMV, 2025; Novartis, 2025).
+
+## Why it matters
+
+The World Health Organization (WHO, n.d.) estimated 282 million malaria cases and 610,000 deaths worldwide in 2024, with the African Region carrying about 95% of cases and deaths and children under five accounting for about 76% of deaths in the Region. The same source confirms partial artemisinin resistance in Eritrea, Rwanda, Uganda and the United Republic of Tanzania while listing it as suspected but unconfirmed in Zambia, which makes a drug with an entirely new mechanism of action directly relevant to us (MMV, 2025; WHO, n.d.). Under the primary estimand framework GanLum achieved a PCR-corrected cure rate of 97.4% against 94.0% for artemether-lumefantrine, while the post hoc conventional per-protocol analysis gave 99.2% and 96.7%, with a safety profile similar to standard of care and high effectiveness against mutant parasites associated with partial drug resistance (Novartis, 2025).
+
+## What to remember
+
+The trial demonstrated non-inferiority, not superiority, and the results available to us come from company and partner press releases rather than a peer-reviewed paper, while those releases give two different participant totals (1,688 and 1,668) without explanation (MMV, 2025; Novartis, 2025). No regulatory approval is reported in the sources we could read, so GanLum is not yet available for prescribing and clinicians should continue to follow national treatment guidelines. Reduced susceptibility to ganaplacide has already been linked to mutations in three parasite genes, which is a reminder that careful stewardship will matter for any new drug (MMV, n.d.).
+
+## References
+
+::: {.references-list}
+
+Medicines for Malaria Venture. (n.d.). *Ganaplacide-lumefantrine*. https://www.mmv.org/mmv-pipeline-antimalarial-drugs/ganaplacide-lumefantrine
+
+Medicines for Malaria Venture. (2025). *Phase 3 trial for next-generation malaria treatment GanLum meets primary endpoint, with potential to combat antimalarial resistance*. https://www.mmv.org/newsroom/news-resources-search/phase-3-trial-next-generation-malaria-treatment-ganaplacide-lumefantrine
+
+Novartis. (2025, 12 November). *Novartis Phase III trial for next-generation malaria treatment KLU156 (GanLum) meets primary endpoint, with potential to combat antimalarial resistance*. https://www.novartis.com/news/media-releases/novartis-phase-iii-trial-next-generation-malaria-treatment-klu156-ganlum-meets-primary-endpoint-potential-combat-antimalarial-resistance
+
+World Health Organization. (n.d.). *Malaria* [Fact sheet]. https://www.who.int/news-room/fact-sheets/detail/malaria
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
