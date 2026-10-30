@@ -1,0 +1,52 @@
+---
+title: "Polio in Zambia, 2026: wastewater detection and the nOPV2 response"
+author: "Mwila Hilton Mwaba"
+date: "2026-10-30"
+description: "Poliovirus found in Lusaka wastewater led Zambia to declare an outbreak in February 2026 and to vaccinate millions of children under five with novel oral polio vaccine type 2."
+categories: [polio, vaccines, zambia]
+toc: false
+---
+
+<div class="stat-strip">
+<div class="stat"><span class="num">3.7 million</span><span class="lab">children expected to be reached in the April 2026 round</span></div>
+<div class="stat"><span class="num">4,437,500</span><span class="lab">vaccine doses procured and distributed by WHO and UNICEF</span></div>
+<div class="stat"><span class="num">0</span><span class="lab">confirmed paralytic cases reported when the outbreak was declared</span></div>
+</div>
+
+## What it is
+
+Zambia declared a polio outbreak on 24 February 2026 after samples from a wastewater treatment plant in Lusaka tested positive for poliovirus, while no confirmed cases of polio-related paralysis had been reported (Xinhua, 2026). The WHO Regional Office for Africa places the detection at the Manchinchi site in Lusaka, following detections in neighbouring countries (World Health Organization Regional Office for Africa [WHO AFRO], 2026), and the Polio IHR Emergency Committee describes circulating vaccine-derived poliovirus type 2 (cVDPV2) in Namibia and Zambia as associated with the outbreak in Angola (World Health Organization [WHO], 2026a), a kind of outbreak that can emerge in under-immunised populations (WHO, 2026b).
+
+The response began on 20 April 2026 with a round for children under five in six provinces (Lusaka, Southern, Eastern, Central, Western and Muchinga), in which every eligible child was to receive novel oral polio vaccine type 2 (nOPV2), supported by 4,437,500 doses and 27,400 trained health workers, supervisors, monitors and volunteers (WHO AFRO, 2026). A second phase starting on 2 June 2026 aimed to reach more than three million children, and caregivers were asked to bring children regardless of previous immunisation status (Open Zambia, 2026).
+
+## Why it matters
+
+Environmental surveillance found the virus before any child was reported paralysed, which is the purpose of testing sewage (Open Zambia, 2026; Xinhua, 2026), while the WHO Director-General determined on 21 August 2026 that the poliovirus situation continues to constitute a public health emergency of international concern (WHO, 2026a).
+
+The vaccine choice also matters, as nOPV2 was designed to be more genetically stable than the traditional monovalent type 2 vaccine, which reduces the risk of seeding new outbreaks (WHO, 2026b). In a phase 3 trial in The Gambia with 2,345 infants and 600 young children, no safety concerns were identified and seroprotection after two doses reached 92.9% in infants and 95.5% in young children (Ochoge et al., 2024), while the WHO vaccine safety committee reported about 1.3 billion doses given in 41 countries without clusters or patterns of adverse event reports (WHO Global Advisory Committee on Vaccine Safety [GACVS], 2024).
+
+## What to remember
+
+Children under five should receive the campaign vaccine whatever their earlier immunisation record, as surveillance rather than clinical cases triggered this response. The sources also differ on timing, since the WHO tables list Zambia's most recent cVDPV2 detection as 29 December 2025 while national announcements describe February 2026, and the Zambian announcements we could open do not name the poliovirus type, so the timeline should be confirmed with ZNPHI before teaching from this summary.
+
+## References
+
+::: {.references-list}
+
+Ochoge, M., Futa, A. C., Umesi, A., Affleck, L., Kotei, L., Daffeh, B., Saidy-Jah, E., Njie, A., Oyadiran, O., Edem, B., Jallow, M., Jallow, E., Donkor, S. A., Tritama, E., Abid, T., Jones, K. A. V., Mainou, B. A., Konz, J. O., Fix, A., . . . Clarke, E. (2024). Safety of the novel oral poliovirus vaccine type 2 (nOPV2) in infants and young children aged 1 to <5 years and lot-to-lot consistency of the immune response to nOPV2 in infants in The Gambia: A phase 3, double-blind, randomised controlled trial. *The Lancet, 403*(10432), 1164-1175. https://doi.org/10.1016/S0140-6736(23)02844-1
+
+Open Zambia. (2026, May 22). *ZNPHI targets 3 million children in phase two polio vaccination drive*. https://www.openzambia.com/lifestyle/2026/5/22/znphi-targets-3-million-children-in-phase-two-polio-vaccination-drive
+
+World Health Organization. (2026a, August 25). *Statement of the forty-fifth meeting of the Polio IHR Emergency Committee*. https://www.who.int/news/item/25-08-2026-statement-of-the-forty-fifth-meeting-of-the-polio-ihr-emergency-committee
+
+World Health Organization. (2026b, February 13). *WHO prequalifies an additional novel oral polio vaccine, strengthening global outbreak response*. https://www.who.int/news/item/13-02-2026-who-prequalifies-additional-novel-oral-polio-vaccine
+
+World Health Organization Global Advisory Committee on Vaccine Safety. (2024). *Safety profile of nOPV2 vaccine*. https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/poliovirus-vaccines
+
+World Health Organization Regional Office for Africa. (2026, April 21). *Zambia launches a nationwide polio vaccination campaign to protect every child under five*. https://www.afro.who.int/countries/zambia/news/zambia-launches-nationwide-polio-vaccination-campaign-protect-every-child-under-five
+
+Xinhua. (2026, February 25). *Zambia declares polio outbreak after virus detected in wastewater*. https://english.news.cn/20260225/e2225a88c8cb4e0688e56c98924fa7e9/c.html
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
