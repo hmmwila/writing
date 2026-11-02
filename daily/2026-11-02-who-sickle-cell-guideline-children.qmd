@@ -1,0 +1,42 @@
+---
+title: "Sickle cell disease in children: the WHO 2026 guideline and hydroxyurea"
+author: "Mwila Hilton Mwaba"
+date: "2026-11-02"
+description: "The first WHO guideline on sickle cell disease in children and adolescents, issued in May 2026, recommends hydroxyurea for all children with sickle cell anaemia from nine months of age, regardless of clinical severity."
+categories: [sickle-cell, haematology, zambia]
+toc: false
+---
+
+<div class="stat-strip">
+<div class="stat"><span class="num">81 100</span><span class="lab">estimated deaths among children under five from sickle cell disease in 2021</span></div>
+<div class="stat"><span class="num">15</span><span class="lab">recommendations across seven priority areas in the new WHO guideline</span></div>
+<div class="stat"><span class="num">~80%</span><span class="lab">of cases occur in sub-Saharan Africa</span></div>
+</div>
+
+## What it is
+
+The World Health Organization issued its first normative guideline on the diagnosis, prevention and clinical management of sickle cell disease in children and adolescents aged 0 to 19 years on 7 May 2026, which contains 15 recommendations across seven priority areas and was developed with the GRADE approach (World Health Organization [WHO], 2026a). Recommendation 4 is a strong recommendation, resting on low-certainty evidence, that hydroxyurea be given to children and adolescents aged 9 months to 19 years with sickle cell anaemia regardless of clinical severity, while prophylactic penicillin is suggested conditionally for children under five years and annual transcranial Doppler screening is strongly recommended, on very low-certainty evidence, for those aged 2 to 16 years with sickle cell anaemia and no previous abnormal result (WHO, 2026a).
+
+## Why it matters
+
+Sickle cell disease contributed to an estimated 81 100 deaths among children under five in 2021, with nearly 80% of cases occurring in sub-Saharan Africa (WHO, 2026b), which places Zambia squarely within the burden, and a study cited by a recent Zambian and Zimbabwean registry paper reported sickle cell trait in 15.5% and the disease in 3.4% of those examined (Kuona et al., 2025). Access, rather than evidence alone, is now the binding constraint, as WHO notes that major inequities persist in early diagnosis, comprehensive care and disease-modifying treatment, and it responded in July 2026 with a target product profile for paediatric hydroxyurea and the first prequalification call for sickle cell therapeutics (WHO, 2026b). A manufacturer-funded survey of 2 145 people found that 35% of the 519 respondents in sub-Saharan Africa did not know their sickle cell variant, against 19% in high-income countries, although the report is a press release and the African sample was recruited mainly from clinical centres (American Society of Hematology [ASH], 2026).
+
+## What to remember
+
+We should remember that hydroxyurea is now recommended for every child with sickle cell anaemia from nine months of age irrespective of severity, that the certainty of the supporting evidence is low, and that the practical task for Zambia lies in early diagnosis and in securing a child-appropriate formulation for clinics. Clinicians should consult the full guideline for dosing and monitoring before applying any of these points.
+
+## References
+
+::: {.references-list}
+
+American Society of Hematology. (2026, April 14). *Individuals living with sickle cell disease in sub-Saharan Africa face substantial barriers to managing their condition* [Press release]. https://www.hematology.org/news-and-media/press-releases/2026/scd-in-sub-saharan-africa
+
+Kuona, P., Kandawasvika, G. Q., Chunda-Liyoka, C., & Masimirembwa, C. (2025). Sickle hemoglobinopathy research in Zimbabwe and Zambia: Setting up an international sickle cell disease registry. *Frontiers in Medicine, 12*, Article 1484763. https://doi.org/10.3389/fmed.2025.1484763
+
+World Health Organization. (2026a). *WHO consolidated guidelines for the management of common childhood illness: Management of sickle-cell disease in children and adolescents*. https://www.who.int/publications/i/item/9789240122666
+
+World Health Organization. (2026b, September 1). *WHO moves to expand access to lifesaving sickle cell treatment and care for children*. https://www.who.int/news/item/01-09-2026-who-moves-to-expand-access-to-lifesaving-sickle-cell-treatment-and-care-for-children
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
