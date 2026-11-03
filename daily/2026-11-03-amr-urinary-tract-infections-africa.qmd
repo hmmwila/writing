@@ -1,0 +1,38 @@
+---
+title: "Antibiotic resistance in urinary tract infections across Africa: what 44 367 isolates show"
+author: "Mwila Hilton Mwaba"
+date: "2026-11-03"
+description: "A 2026 JAMA Network Open study of urinary Escherichia coli and Klebsiella pneumoniae from six African countries reports high and rising resistance to the antibiotics most often used first."
+categories: [antimicrobial-resistance, infectious-disease, africa]
+toc: false
+---
+
+<div class="stat-strip">
+<div class="stat"><span class="num">44 367</span><span class="lab">urinary isolates analysed from six African countries</span></div>
+<div class="stat"><span class="num">&gt;85%</span><span class="lab">amoxicillin resistance in urinary E. coli at every site by study end</span></div>
+<div class="stat"><span class="num">&gt;70%</span><span class="lab">resistance of E. coli and K. pneumoniae to third-generation cephalosporins in the WHO African Region</span></div>
+</div>
+
+## What it is
+
+A retrospective cross-sectional study in JAMA Network Open analysed 44 367 urinary isolates of Escherichia coli and Klebsiella pneumoniae from laboratories in Cameroon, the Central African Republic, Madagascar, Morocco and Senegal and from one university hospital in Benin, modelling resistance trends from 2010 to 2022 and then projecting them forward (Rafetrarivony et al., 2026). By the end of the study period amoxicillin resistance in E. coli exceeded 85% at every site, while resistance to third-generation cephalosporins and fluoroquinolones exceeded 35% and was rising in most countries, as in Benin, where cefotaxime resistance climbed from 34.5% to 59.8% (Rafetrarivony et al., 2026).
+
+## Why it matters
+
+Amoxicillin-clavulanate resistance surpassed 50% in E. coli and K. pneumoniae in most countries, reaching 84.9% and 96.1% respectively in Morocco, which means that this widely used combination agent failed against a majority of cultured isolates in most of the countries studied (Rafetrarivony et al., 2026). Carbapenem resistance stayed below 18% overall, yet ertapenem resistance reached 28.0% in E. coli and 27.8% in K. pneumoniae in Madagascar, and the authors project that third-generation cephalosporin and carbapenem resistance could exceed 90% by 2050 in most countries, an extrapolation that holds only if current trends continue (Rafetrarivony et al., 2026). The wider picture is consistent, as WHO surveillance data for 2023 showed about one in five infections in the African Region to be resistant, with resistance to third-generation cephalosporins above 70% in these two species, while 48% of countries did not report data to the global system (World Health Organization [WHO], 2025). Zambia was not among the study sites, and we did not find a Zambian estimate in a source we could open.
+
+## What to remember
+
+We should remember that regional averages cannot replace local antibiograms when empirical therapy is chosen, that culture results should inform therapy wherever they are available, and that these figures come from capital-city laboratories and one university hospital rather than from nationally representative samples. The projections are model-based and should be read as a warning about direction, not as a forecast for any single clinic.
+
+## References
+
+::: {.references-list}
+
+Rafetrarivony, L. F., Cheysson, F., Affolabi, D., Fall, C., Massou, F., Nayme, K., Ngome, M. R., Rakotondrasoa, A., Bovagnet, T., Khazaz, A., Sanke-Waïgana, H., Ngaya, G. S. L., Mbecko, J.-R., Beaumont, A.-L., Crestani, C., Dieye, Y., Ndiaye, B., Diop, A., Simo Tchuinte, P. L., . . . Huynh, B.-T. (2026). Antimicrobial resistance trends in urinary tract infections in 6 African countries. *JAMA Network Open, 9*(7), Article e2621865. https://doi.org/10.1001/jamanetworkopen.2026.21865
+
+World Health Organization. (2025, October 13). *WHO warns of widespread resistance to common antibiotics worldwide* [News release]. https://www.who.int/news/item/13-10-2025-who-warns-of-widespread-resistance-to-common-antibiotics-worldwide
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
