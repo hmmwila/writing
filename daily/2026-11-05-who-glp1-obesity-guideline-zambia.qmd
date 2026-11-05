@@ -1,0 +1,40 @@
+---
+title: "WHO's first global guideline on GLP-1 medicines for obesity: what it means for Zambia"
+author: "Mwila Hilton Mwaba"
+date: "2026-11-05"
+description: "WHO's December 2025 guideline conditionally recommends liraglutide, semaglutide and tirzepatide for adults with obesity, while projecting that these medicines will reach fewer than one in ten of those who could benefit by 2030."
+categories: [obesity, ncd, guidelines]
+toc: false
+---
+
+<div class="stat-strip">
+<div class="stat"><span class="num">&gt;1 billion</span><span class="lab">people affected by obesity worldwide, according to WHO</span></div>
+<div class="stat"><span class="num">&lt;10%</span><span class="lab">of those who could benefit projected to be reached by GLP-1 therapies by 2030</span></div>
+<div class="stat"><span class="num">12.3%</span><span class="lab">of Zambian women aged 18 to 69 with obesity in the 2017 STEPS survey, against 3.0% of men</span></div>
+</div>
+
+## What it is
+
+On 1 December 2025 WHO issued its first global guideline on glucagon-like peptide-1 (GLP-1) therapies for obesity, which makes two conditional recommendations: that adults, excluding pregnant women, may use liraglutide, semaglutide or tirzepatide for the long-term treatment of obesity (a body mass index of 30 or higher), and that intensive behavioural interventions, including a healthy diet and physical activity, may be offered alongside them on the basis of low-certainty evidence (World Health Organization [WHO], 2025a). The recommendation is conditional because data on long-term efficacy and safety, maintenance and discontinuation are limited, while current costs, health-system preparedness and equity implications add further uncertainty (WHO, 2025a).
+
+## Why it matters
+
+WHO states that obesity affects more than 1 billion people, was associated with 3.7 million deaths in 2024 and could double in number by 2030, yet GLP-1 therapies are projected to reach fewer than 10% of those who could benefit by that year (WHO, 2025a). Availability is highest in high-income countries and much lower in low- and middle-income countries, and the guideline suggests pooled procurement, tiered pricing and voluntary licensing as ways to widen access (WHO, 2025a, 2025b). For Zambia, the 2017 STEPS survey of 4 302 adults aged 18 to 69 found 7.5% with obesity, with a striking sex difference of 12.3% in women against 3.0% in men, and 19.1% with raised blood pressure (WHO, n.d.). Those figures are now nine years old, and neither WHO page we read mentions Africa in its main text, so any Zambian reading of the guideline is our own inference and not a WHO statement.
+
+## What to remember
+
+We should remember that the guideline supports these medicines as one component of long-term chronic care and not as a replacement for diet and activity, that the evidence for stopping treatment and for very long-term safety is still being monitored by WHO, and that prescribing remains a decision for a medical practitioner after individual assessment (WHO, 2025b). For teaching purposes, the equity question is as important as the pharmacology, because a recommendation that most patients cannot obtain changes little at population level.
+
+## References
+
+::: {.references-list}
+
+World Health Organization. (n.d.). *Zambia STEPS survey 2017: Fact sheet*. WHO Regional Office for Africa. https://www.afro.who.int/sites/default/files/2018-05/STEPS%20SURVEY%20Zambia-fact-sheet.pdf
+
+World Health Organization. (2025a, December 1). *WHO issues global guideline on the use of GLP-1 medicines in treating obesity* [News release]. https://www.who.int/news/item/01-12-2025-who-issues-global-guideline-on-the-use-of-glp-1-medicines-in-treating-obesity
+
+World Health Organization. (2025b, December 2). *Obesity: GLP-1 therapies* [Questions and answers]. https://www.who.int/news-room/questions-and-answers/item/obesity-glp-1-therapies
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
