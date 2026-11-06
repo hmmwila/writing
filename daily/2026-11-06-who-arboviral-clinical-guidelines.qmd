@@ -1,0 +1,32 @@
+---
+title: "The first WHO guideline covering dengue, chikungunya, Zika and yellow fever"
+author: "Mwila Hilton Mwaba"
+date: 2026-11-06
+description: "WHO now offers one clinical management guideline for four mosquito-borne diseases, applicable from community care to hospital wards."
+categories: [infectious-disease, guidelines, arboviruses]
+toc: false
+---
+
+## What it is
+
+The World Health Organization published its clinical management guidelines for arboviral diseases in July 2025, which is the first time WHO has issued global guidance covering dengue, chikungunya, Zika and yellow fever together (World Health Organization [WHO], 2025a). The document runs to 125 pages and is also available in an online format on the MAGICapp platform (WHO, 2025b). It addresses both non-serious illness and serious illness requiring hospitalisation, and WHO states that it can be applied at every level of the health system, from community-based and primary care to emergency departments and hospital wards (WHO, 2025a). WHO Health Emergencies then held a launch webinar for health care providers, health managers and policy makers on 4 November 2026 (WHO, 2026).
+
+## Why it matters
+
+WHO reports that more than 5.6 billion people are at risk of these infections, while Aedes mosquitoes are spreading to new regions through climate change, population growth, increased travel and urbanisation (WHO, 2025a). Our reading is that a single document allows teaching programmes and local protocols to start from one framework rather than four separate ones, which is particularly useful for students and clinicians who must learn several diseases within a limited curriculum.
+
+## What to remember
+
+The guideline is the reference point for clinical management of all four diseases, and its specific recommendations sit in the full text, which we encourage readers to consult directly rather than through secondary summaries (WHO, 2025b). We have not summarised those recommendations here, as this page reports only what the WHO announcement and publication pages state.
+
+::: {.references-list}
+## References
+
+World Health Organization. (2025a, July 10). *New WHO guidelines for clinical management of arboviral diseases: Dengue, chikungunya, Zika and yellow fever*. https://www.who.int/news/item/10-07-2025-new-who-guidelines-for-clinical-management-of-arboviral-diseases--dengue--chikungunya--zika-and-yellow-fever
+
+World Health Organization. (2025b). *WHO guidelines for clinical management of arboviral diseases: Dengue, chikungunya, Zika and yellow fever*. https://www.who.int/publications/i/item/9789240111110
+
+World Health Organization. (2026, November 4). *WHO Health Emergencies EPI-WIN webinar: Launch of WHO guidelines for clinical management of arboviral diseases: Dengue, chikungunya, Zika and yellow fever* [Webinar]. https://www.who.int/news-room/events/detail/2026/11/04/default-calendar/who-health-emergencies-epi-win-webinar-launch-of-who-guidelines-for-clinical-management-of-arboviral-diseases-dengue-chikungunya-zika-and-yellow-fever
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
