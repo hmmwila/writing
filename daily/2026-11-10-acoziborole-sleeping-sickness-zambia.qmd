@@ -1,0 +1,44 @@
+---
+title: "Acoziborole: a single-dose oral treatment for sleeping sickness, and what it means for Zambia"
+author: "Mwila Hilton Mwaba"
+date: "2026-11-10"
+description: "A European Medicines Agency committee gave a positive opinion in February 2026 for acoziborole, a three-tablet single-dose cure for gambiense sleeping sickness, while the rhodesiense form found in Zambia remains outside its evidence base."
+categories: [sleeping-sickness, neglected-tropical-diseases, zambia]
+toc: false
+---
+
+<div class="stat-strip">
+<div class="stat"><span class="num">95.2%</span><span class="lab">18-month success in late-stage gambiense disease (159 of 167 patients)</span></div>
+<div class="stat"><span class="num">3</span><span class="lab">tablets of 320 mg make up the single oral dose</span></div>
+<div class="stat"><span class="num">24</span><span class="lab">rhodesiense cases reported in four African countries in 2023, Zambia among them</span></div>
+</div>
+
+## What it is
+
+Acoziborole is a single-dose oral treatment for human African trypanosomiasis caused by *Trypanosoma brucei gambiense*, given as three 320 mg tablets, and on 27 February 2026 the committee for medicines for human use (CHMP) of the European Medicines Agency adopted a positive scientific opinion for early- and advanced-stage disease in adults and in adolescents aged 12 years and older who weigh at least 40 kg (Drugs for Neglected Diseases initiative [DNDi], 2026). In the pivotal single-arm phase 2/3 trial, which enrolled 208 patients aged 15 years or older in the Democratic Republic of the Congo and Guinea, the 18-month success rate in late-stage disease was 95.2% (95% CI 91.2 to 97.7), while 14% of patients had drug-related adverse events, all mild or moderate, and four deaths were judged unrelated to treatment (Betu Kumeso et al., 2023).
+
+## Why it matters
+
+Zambia is relevant for a different reason, as the form of the disease found here is *T. b. rhodesiense*, which is endemic in 13 countries including Zambia, with 24 cases reported across four countries in 2023 (Wendt et al., 2025). A study covering the Eastern, Muchinga and Lusaka provinces identified 64 cases and concluded that the Zambian health system could not adequately handle them, with late or poor diagnosis attributed to a lack of qualified laboratory technicians and diagnostic equipment (Mwiinde et al., 2022). The CHMP opinion covers gambiense disease only (DNDi, 2026), although a laboratory study reported consistent activity of acoziborole against rhodesiense strains, including a multidrug-resistant field isolate, and its authors expect similar efficacy in patients, which clinical data have yet to confirm (Cal et al., 2026).
+
+## What to remember
+
+We should remember that a positive regulatory opinion is not a treatment guideline, as DNDi describes it as groundwork for approval in the Democratic Republic of the Congo and for a later revision of the WHO treatment guidelines (DNDi, 2026). For Zambian practice the immediate lesson lies in diagnosis, because a single-dose cure of any kind depends on cases being found early, and the rhodesiense evidence for acoziborole is still preclinical.
+
+## References
+
+::: {.references-list}
+
+Betu Kumeso, V. K., Kalonji, W. M., Rembry, S., Valverde Mordt, O., Ngolo Tete, D., Prêtre, A., Delhomme, S., Ilunga Wa Kyhi, M., Camara, M., Catusse, J., Schneitter, S., Nusbaumer, M., Mwamba Miaka, E., Mahenzi Mbembo, H., Makaya Mayawula, J., Layba Camara, M., Akwaso Massa, F., Kaninda Badibabi, L., Kasongo Bonama, A., . . . Tarral, A. (2023). Efficacy and safety of acoziborole in patients with human African trypanosomiasis caused by *Trypanosoma brucei gambiense*: A multicentre, open-label, single-arm, phase 2/3 trial. *The Lancet Infectious Diseases, 23*(4), 463-470. https://doi.org/10.1016/S1473-3099(22)00660-0
+
+Cal, M., Keller, S., Rocchetti, R., Braillard, S., Ioset, J.-R., Mäser, P., & Kaiser, M. (2026). Winning the endgame against sleeping sickness: Efficacy profiling of acoziborole against African trypanosomes with the focus on *Trypanosoma brucei rhodesiense*. *PLOS Neglected Tropical Diseases, 20*(10), Article e0014762. https://doi.org/10.1371/journal.pntd.0014762
+
+Drugs for Neglected Diseases initiative. (2026, February 27). *Acoziborole Winthrop, developed by DNDi and Sanofi, receives European Medicines Agency positive opinion as three-tablet, single-dose treatment for most common form of sleeping sickness* [Press release]. https://dndi.org/press-releases/2026/acoziborole-winthrop-developed-dndi-sanofi-receives-european-medicines-agency-positive-opinion-sleeping-sickness/
+
+Mwiinde, A. M., Simuunza, M., Namangala, B., Chama-Chiliba, C. M., Machila, N., Anderson, N. E., Atkinson, P. M., & Welburn, S. C. (2022). Healthcare management of human African trypanosomiasis cases in the Eastern, Muchinga and Lusaka provinces of Zambia. *Tropical Medicine and Infectious Disease, 7*(10), Article 270. https://doi.org/10.3390/tropicalmed7100270
+
+Wendt, E. M., Tobolowsky, F. A., Priotto, G., Franco, J. R., & Chancey, R. (2025). Notes from the field: Rhodesiense human African trypanosomiasis (sleeping sickness) in a traveler returning from Zimbabwe, United States, August 2024. *MMWR. Morbidity and Mortality Weekly Report, 74*(9), 158-159. https://doi.org/10.15585/mmwr.mm7409a3
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
