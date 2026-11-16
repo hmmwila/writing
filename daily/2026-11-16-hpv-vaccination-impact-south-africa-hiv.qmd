@@ -1,0 +1,40 @@
+---
+title: "HPV vaccination in South Africa cut vaccine-type infection by 83%, including in girls living with HIV"
+author: "Mwila Hilton Mwaba"
+date: "2026-11-16"
+description: "A Lancet Global Health study of South Africa's school-based programme found that HPV-16 and HPV-18 prevalence in girls aged 17 to 18 years fell by 83% after introduction, with a similar fall in girls living with HIV."
+categories: [hpv, cervical-cancer, vaccines]
+toc: false
+---
+
+<div class="stat-strip">
+<div class="stat"><span class="num">83%</span><span class="lab">relative fall in HPV-16 and HPV-18 prevalence, from 21.6% to 3.2%</span></div>
+<div class="stat"><span class="num">4.4%</span><span class="lab">HPV-16 and HPV-18 prevalence in girls living with HIV after the programme, down from 29.4%</span></div>
+<div class="stat"><span class="num">73%</span><span class="lab">of Zambian girls aged 14 and 15 years received at least one dose in 2019 to 2022</span></div>
+</div>
+
+## What it is
+
+A repeat cross-sectional study in The Lancet Global Health compared HPV prevalence in girls aged 17 to 18 years who had probably missed South Africa's school-based programme (819 girls surveyed in 2019) with the first cohorts offered it (1,538 girls surveyed in 2023), and HPV-16 and HPV-18 prevalence fell from 21.6% to 3.2% (adjusted prevalence ratio 0.17, 95% CI 0.12 to 0.24). The programme gave two doses of the bivalent vaccine to Grade 4 girls and reached 87% coverage with at least one dose in its first year (Machalek et al., 2026). Among girls living with HIV the fall was from 29.4% to 4.4% (adjusted prevalence ratio 0.18, 95% CI 0.10 to 0.32), while HPV-31 and HPV-45 also declined, which is consistent with cross-protection (Machalek et al., 2026).
+
+## Why it matters
+
+The authors describe the first population-level evidence of impact for a two-dose programme in a setting with endemic HIV, with reductions similar to those from three-dose programmes in high-income countries. HPV-16 and HPV-18 prevalence was also 74% lower among unvaccinated girls in the 2023 cohort, which suggests indirect protection, and the authors name very high early coverage as a key factor (Machalek et al., 2026). That lesson matters for Zambia, where cervical cancer causes more than 3,000 new cases and over 1,900 deaths each year, while between 2019 and 2022 only 73% of girls aged 14 and 15 years received at least one dose and fewer than half of those eligible received a second (UNICEF Zambia, 2023). The September 2023 multi-age cohort campaign aimed to reach 1.42 million girls aged 9 to 14 years (UNICEF Zambia, 2023).
+
+## What to remember
+
+We should read the result as fewer infections, not yet fewer cancers, as the study measured prevalence in clinic attendees. Nearly all girls living with HIV in the 2023 sample were on antiretroviral therapy (294 of 295), so impact might be lower where treatment coverage is lower (Machalek et al., 2026). Few participants had received a single dose, which means the study does not test the single-dose schedule that WHO allows for girls aged 9 to 14 years, and WHO advises at least two doses, and three where possible, for people living with HIV (WHO, 2022).
+
+## References
+
+::: {.references-list}
+
+Machalek, D. A., Nyemba, D. C., Travill, D., Petoumenos, K., Mbulawa, Z. Z. A., Naidoo, I., Motshwane, F. M. M., Bamford, L., Rees, H., Kaldor, J. M., & Delany-Moretlwe, S. (2026). Population impact of South Africa's human papillomavirus (HPV) vaccination programme on HPV prevalence in adolescent girls with and without HIV: A repeat cross-sectional study. *The Lancet Global Health, 14*(4), e570-e578. https://doi.org/10.1016/S2214-109X(25)00525-X
+
+UNICEF Zambia. (2023, September 25). *The Ministry of Health launches HPV multi-age cohort (MAC) vaccination campaign* [Press release]. https://www.unicef.org/zambia/press-releases/ministry-health-launches-hpv-multi-age-cohort-mac-vaccination-campaign
+
+World Health Organization. (2022, December 20). *WHO updates recommendations on HPV vaccination schedule* [Departmental update]. https://www.who.int/news/item/20-12-2022-who-updates-recommendations-on-hpv-vaccination-schedule
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
