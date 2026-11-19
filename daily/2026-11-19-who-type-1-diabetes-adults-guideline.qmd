@@ -1,0 +1,42 @@
+---
+title: "WHO issues its first guidelines on type 1 diabetes in adults, recommending multiple daily insulin injections"
+author: "Mwila Hilton Mwaba"
+date: "2026-11-19"
+description: "The World Health Organization published its first guidelines on type 1 diabetes in adults on 14 November 2026, built around intensified insulin therapy and written for low-resource, emergency and humanitarian settings."
+categories: [diabetes, ncds, guidelines]
+toc: false
+---
+
+<div class="stat-strip">
+<div class="stat"><span class="num">9.5 million</span><span class="lab">people living with type 1 diabetes worldwide in 2025, with 500,000 newly diagnosed that year</span></div>
+<div class="stat"><span class="num">86.0%</span><span class="lab">of Zambian adults with diabetes estimated to be undiagnosed in 2024</span></div>
+<div class="stat"><span class="num">2030</span><span class="lab">WHO target year for universal access to affordable insulin and blood glucose self-monitoring</span></div>
+</div>
+
+## What it is
+
+The World Health Organization issued its first guidelines on the diagnosis and management of type 1 diabetes in adults on 14 November 2026, marking World Diabetes Day, with recommendations designed for all settings, including low-resource, emergency and humanitarian ones (World Health Organization [WHO], 2026b). The 125-page document strongly recommends intensified insulin therapy, which means multiple daily injections with doses adjusted to blood glucose values. It allows either human insulin or insulin analogues, while preferring human insulin because of its generally lower cost (WHO, 2026a). A published summary reports 14 recommendations, one strong and thirteen conditional, with a glycated haemoglobin target of 7% or lower (53 mmol/mol) for most adults and a suggestion to consider islet autoantibody and C-peptide testing where the diagnosis is uncertain (Jha, 2026).
+
+## Why it matters
+
+Type 1 diabetes is often seen as a childhood condition. WHO estimates that 9.5 million people lived with it in 2025, with a further 500,000 diagnosed that year, and it is increasingly affecting adults (WHO, 2026b). For Zambia the diagnostic gap is the first concern, as the International Diabetes Federation (IDF) estimates 750,400 adults aged 20 to 79 years with diabetes in 2024, an age-standardised prevalence of 10.3%, which ranks third in the African region, and 86.0% of those adults undiagnosed (IDF, 2025). Those figures cover all types of diabetes, most of which is type 2 (WHO, 2026b), so they give no type 1 count. They do show how limited detection is in a setting where adults with type 1 diabetes are sometimes misclassified as type 2, particularly where diagnostic tools and specialist care are scarce, and where delayed diagnosis raises the risk of diabetic ketoacidosis (Jha, 2026).
+
+## What to remember
+
+We should read the document first as an insulin guideline, since its title and overview centre on insulin use. Thirteen of the fourteen recommendations are conditional, so local resources and patient preferences should shape the regimen chosen (WHO, 2026a; Jha, 2026). Human insulin remains an appropriate and effective option. Glucose monitoring may use finger-prick tests or continuous glucose monitors, with urine glucose testing as a fallback where blood testing is unavailable (WHO, 2026b). The recommendations set a clinical standard but do not themselves secure supply, so the practical question for Zambia is whether insulin, test strips and glycated haemoglobin testing reach the facilities where adults present, which these sources do not address.
+
+## References
+
+::: {.references-list}
+
+International Diabetes Federation. (2025). *Diabetes in Africa - 2024* [IDF Diabetes Atlas, 11th edition, regional factsheet]. https://medbox.org/index.php/dl/6878e8f2be6e2c6db864eb12
+
+Jha, S. (2026, November 15). *WHO issues first guidelines on type 1 diabetes in adults, recommends multiple daily insulin injections*. The South First. https://thesouthfirst.com/health/who-issues-first-guidelines-on-type-1-diabetes-in-adults-recommends-multiple-daily-insulin-injections/
+
+World Health Organization. (2026a). *Guidelines on insulin use for type 1 diabetes in adults, including in emergency and humanitarian settings*. https://www.who.int/publications/i/item/9789240126244
+
+World Health Organization. (2026b, November 14). *WHO issues first guidelines on type 1 diabetes for adults* [News release]. https://www.who.int/news/item/14-11-2026-who-issues-first-guidelines-on-type-1-diabetes-for-adults
+
+:::
+
+Daily Health Brief, a working summary for education, not clinical advice.
